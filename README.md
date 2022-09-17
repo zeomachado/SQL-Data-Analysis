@@ -1,4 +1,4 @@
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/zeomachado/SQL-Data-Analysis/blob/main/images/SQL_banner.jpg"><img src="/zeomachado/SQL-Data-Analysis/blob/main/images/SQL_banner.jpg" alt="banner" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/images/SQL_banner.jpg"><img src="/images/SQL_banner.jpg" alt="banner" style="max-width: 100%;"></a></p>
 
 ## SQL for Data Analysis
 SQL Fundamentals to work with data
